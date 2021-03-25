@@ -1,0 +1,33 @@
+h1, h2, h3, nav li {
+  font-family: 'Kiwi Maru', serif;
+
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+.destinations_top_header__subtitle {
+    font-size: 2.275em;
+    font-weight: 700;
+    color: blue;
+    text-transform: uppercase;
+    letter-spacing: .025em;
+    margin-top: .575em;
+    text-align: center;
+}
+.blueCard{
+  background-color: aqua;
+  text-align: center;
+}
+.blueCard p{
+  text-align: center;
+  color: white;
+}
+h6{
+  text-align: center;
+  color: white;
+}
+h4{
+  text-align: center;
+  color: green;
+}
